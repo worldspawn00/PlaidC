@@ -2,4 +2,5 @@
   (lib (name SMKJP)(type KiCad)(uri C:/Users/USER/Documents/keyboard/SMKJP_components/SMKJP.pretty)(options "")(descr ""))
   (lib (name plaid_silk)(type KiCad)(uri ${KIPRJMOD}/plaid_silk.pretty)(options "")(descr ""))
   (lib (name Type-C)(type KiCad)(uri "C:/Users/Worldspawn Mobile/Google Drive/DIY/keebs/plaid/Type-C.pretty")(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri "C:/Users/Worldspawn Mobile/Documents/GitHub/jerkin30/MX_Alps_Hybrid.pretty")(options "")(descr ""))
 )
